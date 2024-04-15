@@ -1,2 +1,3 @@
-module PostimagesHelper
+module PostImagesHelper
+  # ヘルパーメソッドなど
 end
